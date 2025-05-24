@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Nozipho-Mth
+/src/backend/database.py      @Nozipho-Mth
+/src/backend/routers/auth.py  @Nozipho-Mth
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Nozipho-Mth
